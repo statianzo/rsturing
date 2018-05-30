@@ -1,0 +1,6 @@
+[package]
+name = "rsturing"
+version = "0.1.0"
+authors = ["Jason Staten <jason.staten@domo.com>"]
+
+[dependencies]
